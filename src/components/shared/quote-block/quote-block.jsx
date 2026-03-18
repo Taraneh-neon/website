@@ -3,6 +3,7 @@ import Image from 'next/image';
 import PropTypes from 'prop-types';
 
 import alexCoAvatar from 'images/authors/alex-co.jpg';
+import alexTushynskiAvatar from 'images/authors/alex-tushynski.png';
 import benHalpernAvatar from 'images/authors/ben-halpern.jpg';
 import benVinegarAvatar from 'images/authors/ben-vinegar.jpg';
 import codyJenkinsAvatar from 'images/authors/cody-jenkins.jpg';
@@ -103,6 +104,10 @@ const quotes = {
   'thorsten-riess': {
     name: 'Thorsten Rieß',
     avatar: thorstenRiessAvatar,
+  },
+  'alex-tushynski': {
+    name: 'Alex Tushynski',
+    avatar: alexTushynskiAvatar,
   },
 };
 

@@ -30,6 +30,8 @@ Every time a developer discovers Neon through your work and becomes a customer, 
 
 We'll help promote your work to Neon's 1M+ developer community through blog posts, social media, case studies, and co-marketing initiatives.
 
+<QuoteBlock quote="I am grateful for Neon team for supporting OSS, and helping us grow and meet our needs for our Vector stores and Agentic databases" author="alex-tushynski" role="Founder DocsGPT" />
+
 </FeatureList>
 
 ## Who's It For?
